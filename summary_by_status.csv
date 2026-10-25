@@ -1,0 +1,4 @@
+transaction_status,transaction_count,total_amount_inr,average_amount_inr
+SUCCESS,9092,3047086.37,335.1392839859217
+FAILED,718,250885.98,349.4233704735376
+PENDING,190,58799.39,309.4704736842105
